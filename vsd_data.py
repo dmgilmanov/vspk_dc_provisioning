@@ -7,5 +7,4 @@ vsd_api_csp = 'csp'
 
 ### VSD CBIS L2 domain variables
 cbis_enterprise_name = 'CBIS-Infrastructure-Enterprise'
-cbis_enterprise_profile_name = 'Default Profile'
 l2_domain_template_name = 'L2 Domain Template'
