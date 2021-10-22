@@ -19,7 +19,7 @@ port_layout = {
         'description': 'Compute-6 (U25)',
         'vlans': {
             '0': 'Provisioning',
-			'516': 'Tenant_VXLAN'
+	    '516': 'Tenant_VXLAN'
         }
     },
     '1/1/19': {
@@ -35,7 +35,7 @@ port_layout = {
         'description': 'Compute-7 (U26)',
         'vlans': {
             '0': 'Provisioning',
-			'516': 'Tenant_VXLAN'
+	    '516': 'Tenant_VXLAN'
         }
     },
     '1/1/21': {
@@ -85,7 +85,7 @@ port_layout = {
         'description': 'Compute-8 (U27)',
         'vlans': {
             '0': 'Provisioning',
-			'516': 'Tenant_VXLAN'
+	    '516': 'Tenant_VXLAN'
         }
     },
     '1/1/27': {
@@ -101,7 +101,7 @@ port_layout = {
         'description': 'Compute-9 (U28)',
         'vlans': {
             '0': 'Provisioning',
-			'516': 'Tenant_VXLAN'
+	    '516': 'Tenant_VXLAN'
         }
     },
     '1/1/29': {
@@ -147,7 +147,7 @@ port_layout = {
         'description': 'Compute-10 (U29)',
         'vlans': {
             '0': 'Provisioning',
-			'516': 'Tenant_VXLAN'
+	    '516': 'Tenant_VXLAN'
         }
     },
     '1/1/37': {
@@ -163,7 +163,7 @@ port_layout = {
         'description': 'Compute-1 (U14)',
         'vlans': {
             '0': 'Provisioning',
-			'516': 'Tenant_VXLAN'
+	    '516': 'Tenant_VXLAN'
         }
     },
     '1/1/39': {
@@ -179,7 +179,7 @@ port_layout = {
         'description': 'Compute-2 (U13)',
         'vlans': {
             '0': 'Provisioning',
-			'516': 'Tenant_VXLAN'
+	    '516': 'Tenant_VXLAN'
         }
     },
     '1/1/45': {
@@ -195,7 +195,7 @@ port_layout = {
         'description': 'Compute-3 (U12)',
         'vlans': {
             '0': 'Provisioning',
-			'516': 'Tenant_VXLAN'
+	    '516': 'Tenant_VXLAN'
         }
     },
     '1/1/47': {
@@ -211,7 +211,7 @@ port_layout = {
         'description': 'Compute-4 (U11)',
         'vlans': {
             '0': 'Provisioning',
-			'516': 'Tenant_VXLAN'
+	    '516': 'Tenant_VXLAN'
         }
     },
     '1/1/53': {
@@ -227,7 +227,7 @@ port_layout = {
         'description': 'Compute-5 (U10)',
         'vlans': {
             '0': 'Provisioning',
-			'516': 'Tenant_VXLAN'
+	    '516': 'Tenant_VXLAN'
         }
     },
     '1/2/7': {
