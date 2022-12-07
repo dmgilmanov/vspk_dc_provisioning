@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # Python script to automate Nuage DC Fabric provisioning
 
 # 1. Why is this script   #
@@ -34,6 +32,3 @@ To accomodate it:
 * Comment or uncoment needed provisioning functions and **run_dc_provisioning.py** file:
 
 `python3 run_dc_provisioning.py` 
-
-
->>>>>>> 48afa744bf1df1ac622a910fa529fb4fa6076577
